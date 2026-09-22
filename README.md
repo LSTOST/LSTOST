@@ -9,7 +9,7 @@
 
 用系统化的思路，给生活留足退路与秩序：
 
-- 📘 **[一个人住的日常运转手册](https://github.com/LSTOST/solo-living-guide)**  
+- 📘 **[独居生活指南](https://github.com/LSTOST/solo-living-guide)**  
   写给成年人的独居自救与生活运转指南。涵盖找房看房、租房避坑、居家安全、维修沟通到异地就医，覆盖独居全生命周期。核心理念是「先保底，再执行」。
 - 🧭 **[住下来](https://listefan.com/products/zhuxialai/)**  
   城市旅居决策工具，为数字游民与移居者整理真实的气候、租房成本与物价参考。
