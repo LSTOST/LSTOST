@@ -26,7 +26,7 @@
   面向 AI 辅助编程（Vibe Coding）的 UI 模式助手。用日常大白话或截图反查常用交互结构，生成直接可用的提示词。
 - 🧩 **[配不配](https://peibupei.com)**  
   轻量社交轻测平台，基于 MBTI 与生活偏好的趣味契合度互动。
-- 🪴 **[LISTEFAN 个人博客](https://listefan.com)**  
+- 🪴 **[个人博客](https://listefan.com)**  
   基于 Astro 与 Cloudflare 边缘计算重建的独立数字花园。没有算法信息流打扰，记录技术实践、长文思考与生活随笔。
 
 ---
