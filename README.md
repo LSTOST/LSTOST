@@ -9,11 +9,11 @@
 
 用系统化的思路，给生活留足退路与秩序：
 
-- 📘 **[独居生活指南](https://github.com/LSTOST/solo-living-guide)**  
-  写给成年人的独居自救与生活运转指南。涵盖找房看房、租房避坑、居家安全、维修沟通到异地就医，覆盖独居全生命周期。
-- 🧭 **[住下来-城市旅居指南](https://listefan.com/products/zhuxialai/)**  
+- 📘 **[一个人住的日常运转手册](https://github.com/LSTOST/solo-living-guide)**  
+  写给成年人的独居自救与生活运转指南。涵盖找房看房、租房避坑、居家安全、维修沟通到异地就医，覆盖独居全生命周期。核心理念是「先保底，再执行」。
+- 🧭 **[住下来](https://listefan.com/products/zhuxialai/)**  
   城市旅居决策工具，为数字游民与移居者整理真实的气候、租房成本与物价参考。
-- 💬 **[合拍吗-情侣契合度测试](https://hepaima.com)**  
+- 💬 **[合拍吗](https://hepaima.com)**  
   基于专业心理学量表的深度双人契合度测评与关系诊断报告。
 
 ---
@@ -26,7 +26,7 @@
   面向 AI 辅助编程（Vibe Coding）的 UI 模式助手。用日常大白话或截图反查常用交互结构，生成直接可用的提示词。
 - 🧩 **[配不配](https://peibupei.com)**  
   轻量社交轻测平台，基于 MBTI 与生活偏好的趣味契合度互动。
-- 🪴 **[个人博客](https://listefan.com)**  
+- 🪴 **[LISTEFAN 个人博客](https://listefan.com)**  
   基于 Astro 与 Cloudflare 边缘计算重建的独立数字花园。没有算法信息流打扰，记录技术实践、长文思考与生活随笔。
 
 ---
@@ -46,6 +46,7 @@
 如果你对独立开发、旅居生活、数字工具或内容创作感兴趣，随时欢迎交流：
 
 - 🌐 个人网站：[listefan.com](https://listefan.com)
+- 🐦 X (Twitter)：[@fentislee](https://x.com/fentislee)
 - 📬 电子邮箱：[huggingme@duck.com](mailto:huggingme@duck.com)
 - 💬 微信：`LSTOST`（请注明来意）
 - 🎵 音乐足迹：[网易云音乐主页](https://music.163.com/#/user/home?id=10046773)
