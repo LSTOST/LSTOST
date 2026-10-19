@@ -45,5 +45,4 @@
 
 如果你对独立开发、旅居生活、数字工具或内容创作感兴趣，随时欢迎交流：
 
-- 🐦 X (Twitter)：[@fentislee](https://x.com/fentislee)
 - 📬 电子邮箱：[huggingme@duck.com](mailto:huggingme@duck.com)
